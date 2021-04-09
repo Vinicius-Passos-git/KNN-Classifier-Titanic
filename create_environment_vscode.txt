@@ -1,0 +1,9 @@
+py -3 -m venv .venv
+.venv\scripts\activate
+
+
+If you don't have permission, digit this code first:
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+
+After run code
+name.py
